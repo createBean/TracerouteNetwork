@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TracerouteDemo</string>
+
+    <string name="diagnosing_network">诊断网络</string>
+    <string name="settings_activity_diagosis_network_textview">当您的手机网络处于可用状态而聆客应用无法连接网络时，您可以尝试诊断网络，并将诊断结果通过邮件发送给我们。
+    </string>
+    <string name="diagnosis_please_wait">正在为您诊断，请稍候...</string>
+    <string name="dns_parsing_ok_connection_timeout_tcp_failure">DNS解析正常,连接超时,TCP建立失败</string>
+    <string name="dns_parsing_ok_io_error_tcp_failure">DNS解析正常,IO异常,TCP建立失败</string>
+    <string name="dns_parsing_failure">DNS解析失败,主机地址不可达</string>
+</resources>
